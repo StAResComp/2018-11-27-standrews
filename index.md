@@ -128,6 +128,17 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   <a href="{{site.swc_site}}/conduct.html">Code of Conduct</a>.
 </p>
 
+<p id="drop-ins">
+  <strong>Pre-workshop drop-in sessions:</strong>
+  If you have any questions or encounter any difficulties downloading the
+  software that needs to be installed prior to the workshop, please come
+  along to one of the following drop-in sessions: 
+  <ul>
+    <li>Wednesday 21st November, 14:00-16:00, Town venue: Old Union Diner - Patrick McCann</li>
+    <li>Monday 26th November, 14:00 -16:00, North Haugh venue: Computer Science (Jack Cole Building) - Alexander Konovalov</li>
+</ul>
+</p>
+
 {% comment %}
   ACCESSIBILITY
 
