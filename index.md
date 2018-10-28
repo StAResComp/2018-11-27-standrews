@@ -177,6 +177,12 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   for more information.
 </p>
 
+<p id="registration">
+  <strong>Registration</strong>:
+  To register for the workshop, please follow the link to
+  <a href='https://www.st-andrews.ac.uk/pdms/?Mode=Search&AudienceID=5&CourseID=9006'>PDMS</a>.
+</p>
+
 <hr/>
 
 {% comment %}
