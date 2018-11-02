@@ -135,7 +135,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   along to one of the following drop-in sessions: 
   <ul>
     <li>Wednesday 21st November, 14:00-16:00, Town venue: Old Union Diner - Patrick McCann</li>
-    <li>Monday 26th November, 14:00 -16:00, North Haugh venue: Computer Science (Jack Cole Building) - Alexander Konovalov</li>
+    <li>Monday 26th November, 14:00 -16:00, North Haugh venue: Computer Science (Jack Cole Building), room 0.36 - Alexander Konovalov</li>
 </ul>
 </p>
 
