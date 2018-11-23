@@ -1,0 +1,9 @@
+# Ignore output files
+data/*.p??
+
+# Ignore zip file
+*.zip
+
+# Ignore iPython/Jupyter
+.ipynb_checkpoints/
+*.ipynb
