@@ -1,4 +1,4 @@
-# 2018-03-29 Python lesson tutor notes
+# 2018-11-27 Python lesson tutor notes
 
 These notes are intended for the tutor as they work through the material, but may be useful for independent learning.
 
@@ -6,7 +6,7 @@ These notes are intended for the tutor as they work through the material, but ma
 
 <!-- TOC -->
 
-- [2018-03-29 Python lesson tutor notes](#2018-03-29-python-lesson-tutor-notes)
+- [2018-11-27 Python lesson tutor notes](#2018-11-27-python-lesson-tutor-notes)
 - [Start the slides](#start-the-slides)
     - [TITLE: Building Programs With Python (Part 1)](#title-building-programs-with-python-part-1)
     - [SECTION 01: Setup](#section-01-setup)
