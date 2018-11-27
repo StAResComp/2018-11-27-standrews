@@ -1706,6 +1706,11 @@ Inflammation data files: ['data/inflammation-05.csv', 'data/inflammation-11.csv'
 ```bash
 $ nano analyse_files.py
 ```
+- **0 - import necessary modules**
+```python
+import numpy as np
+import matplotlib.pyplot as plt
+```
 
 - **1 - show that we see each filename in turn**
 ```python
