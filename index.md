@@ -10,7 +10,7 @@ humandate: "27-28 Nov 2018"    # human-readable dates for the workshop (e.g., "F
 humantime: "09:30 - 17:00"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2018-11-27      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2018-11-28        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Isla Barnard", "Peter Cock", "Alexander Konovalov", "Patrick McCann", "Leighton Pritchard", "Michael Torpey"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Isla Barnard", "Peter Cock", "Olexandr Konovalov", "Patrick McCann", "Leighton Pritchard", "Michael Torpey"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Swithun Crowe", "Jacob Francis", "Sebastijan Sekulic"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["research-computing@st-andrews.ac.uk"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/2018-11-27-standrews        # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
@@ -135,7 +135,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   along to one of the following drop-in sessions: 
   <ul>
     <li>Wednesday 21st November, 14:00-16:00, Town venue: Old Union Diner - Patrick McCann</li>
-    <li>Monday 26th November, 14:00 -16:00, North Haugh venue: Computer Science (Jack Cole Building), room 0.36 - Alexander Konovalov</li>
+    <li>Monday 26th November, 14:00 -16:00, North Haugh venue: Computer Science (Jack Cole Building), room 0.36 - Olexandr Konovalov</li>
 </ul>
 </p>
 
